@@ -3,7 +3,7 @@
 Used Technologies:  
 Back-end: Spring (Boot, Data, Security), JPA / Hibernat  PostgreSQL, JUnit, Mockito  
 Front-end: TypeScript, React.js, Redux Toolkit, Ant Design, Jest  
-Security: JWT, OAuth2 Google, Facebook, Github    
+Security: JWT, OAuth2 Google, Facebook, Github  
 REST API, GraphQL API    
 Server Build: Maven    
 Client Build: npm, yarn, webpack  
