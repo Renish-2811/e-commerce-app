@@ -1,7 +1,6 @@
 
 # E-commerce project developed using Spring Boot and React.js.
 Used Technologies:  
-
 Back-end: Spring (Boot, Data, Security), JPA / Hibernat  PostgreSQL, JUnit, Mockito
 Front-end: TypeScript, React.js, Redux Toolkit, Ant Design, Jest
 Security: JWT, OAuth2 Google, Facebook, Github  
